@@ -1,7 +1,5 @@
 It contain all wallpapers or coding i have done. All in free license.
 ==========
-
-< It give a nice wallpaper. It's not really a program.>
     Copyright (C) 2013  Haerald
 
     This program is free software: you can redistribute it and/or modify
